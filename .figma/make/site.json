@@ -1,0 +1,10 @@
+{
+  "description": "Identifies Indian cricket players from images and delivers confidence scores, top matches, and recent recognition insights for teams and analysts.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
